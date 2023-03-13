@@ -38,7 +38,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShiba&layout=compact&theme=vision-friendly-dark)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbhiShiba&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=AbhiShiba&theme=dark)](https://git.io/streak-stats) -->
 
 <p>
 <a href="https://github.com/AbhiShiba"><span>
