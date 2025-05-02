@@ -1,50 +1,54 @@
-# Abhishek
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+# Abhishek S
+![Banner](https://raw.githubusercontent.com/AbhiShiba/AbhiShiba/main/assets/dev-banner.gif)
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/Gm16krTMttrjLH237](https://images.app.goo.gl/pbtYhu2SasEtebup6](https://images.app.goo.gl/Pg9C4hpLBBYUmezi6)" />
- -->
- <div id="header" align="center">
+<h3 align="center">A passionate Backend Developer from India</h3>
+
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<!--   <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shraddha-tiwari-a1432724a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- </div> -->
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbhiShiba&label=Profile%20views&color=0e75b6&style=flat" alt="AbhiShiba" /> </p>
 
-<!-- - 🔭 I’m currently working on [Calculator](https://github.com/Shraddha08-cmyk/calculator) -->
+---
 
-- 🌱 I’m currently learning **React**
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbhiShiba?tab=repositories](https://github.com/AbhiShiba?tab=repositories)
+- 🔭 Currently working as a **Software Engineer at Venuesavvy Services Pvt Ltd**
+- 🌱 Learning and building with **React & AI APIs**
+- 🧠 Proficient in **Node.js, Express.js, MongoDB, MySQL, Redis, TypeScript**
+- 🤖 Built AI-powered systems using **OpenAI, Vertex AI**, and WhatsApp automation
+- 🛠️ Designed scalable **RESTful APIs** and integrated **Elasticsearch** for better performance
+- 📫 Reach me at **shivarajabhishek@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-shiba) | [GitHub](https://github.com/AbhiShiba)
 
-- 📫 How to reach me **shivarajabhishek@gmail.com**
+---
 
-<!-- <h3 align="center">Connect with me:</h3> -->
-<!-- <p align="center">
-<a href="https://linkedin.com/in/shraddha tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha tiwari" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shraddha815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shraddha815" height="30" width="40" /></a>
-</p> -->
+### 🧰 Tech Stack
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
 
-<h3>:fire: My Stats :</h3>
+---
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShiba&layout=compact&theme=vision-friendly-dark)
+### 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=AbhiShiba&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiShiba&layout=compact&theme=vision-friendly-dark)
 
-<p>
-<a href="https://github.com/AbhiShiba"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiShiba&theme=dracula" />
-</span></a> </p>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhiShiba&theme=dracula)
 
-<p ><img src="https://github-profile-trophy.vercel.app/?username=AbhiShiba&theme=vue" alt=""/> </p>
-  
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbhiShiba&theme=vue)
+
+---
+
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
