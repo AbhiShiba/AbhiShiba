@@ -1,5 +1,5 @@
 # Abhishek S
-![Banner](https://raw.githubusercontent.com/AbhiShiba/AbhiShiba/main/assets/dev-banner.gif)
+![Banner](https://raw.githubusercontent.com/AbhiShiba/AbhiShiba/main/profile.png)
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
